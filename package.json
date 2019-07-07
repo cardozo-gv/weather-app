@@ -5,18 +5,18 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "gh-pages": "^2.0.1",
+    "homepage": "https://cardozo-gv.github.io/weather-app/",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
-    "react-scripts": "2.1.5",
-    "homepage": "https://cardozo-gv.github.io/weather-app/"
+    "react-scripts": "2.1.5"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
