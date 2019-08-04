@@ -3,6 +3,11 @@
 
 https://cardozo-gv.github.io/weather-app/
 
+</br> </br>
+## Tutorial del canal de youtube: Hamza Mirza
+## Title: Using APIs in React - Create a Weather Application - Part 1 | React tutorial for Beginners
+## url : https://www.youtube.com/watch?v=204C9yNeOYI&t=116s
+
 
 </br> </br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
